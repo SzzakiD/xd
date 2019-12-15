@@ -22,5 +22,5 @@ process.on('message', function(content) {
 
 // THIS  MUST  BE  THIS  WAY
 
-client.login(process.env.y2w__gsuE75P-PVp_i3Zpk-EKl0iRLVl);//BOT_TOKEN is the Client Secret
+client.login(process.env.NjUzNjQ0NzA4NDg0MDg3ODQ5.XfZQMw.xNgirlmz2k6nPRPcAxKRI-QO-0E);//BOT_TOKEN is the Client Secret
 }
